@@ -21,6 +21,10 @@ Git
 \f3 \
 \pard\pardeftab720\sl360\partightenfactor0
 
-\f0 \cf5 \cb6 \outl0\strokewidth0 \strokec5 Git has a mutable index called stage.
+\f0 \cf2 \cb3 Git has a mutable index called stage.
+\f3 \
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f0 \cf5 \cb6 \outl0\strokewidth0 \strokec5 Git tracks changes.
 \f3 \
 }
