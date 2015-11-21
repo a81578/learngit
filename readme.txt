@@ -2,7 +2,7 @@
 {\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;\f2\fnil\fcharset134 PingFangSC-Regular;
 \f3\fnil\fcharset0 Consolas;}
 {\colortbl;\red255\green255\blue255;\red52\green52\blue52;\red249\green249\blue249;\red38\green38\blue38;
-\red52\green52\blue52;\red249\green249\blue249;}
+\red17\green137\blue135;\red249\green249\blue249;\red52\green52\blue52;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \deftab720
 \pard\pardeftab720\sl360\partightenfactor0
@@ -24,6 +24,8 @@ Git
 \f3 \
 \pard\pardeftab720\sl360\partightenfactor0
 
-\f0 \cf5 \cb6 \outl0\strokewidth0 \strokec5 Git tracks changes of files.
-\f3 \cf2 \cb3 \outl0\strokewidth0 \
-}
+\f0 \cf2 \cb3 Git tracks changes of files.
+\f3 \cf2 \cb3 \
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f0 \cf5 \cb6 \outl0\strokewidth0 \strokec5 My\cf7 \strokec7  stupid boss still prefers \cf5 \strokec5 SVN\cf7 \strokec7 .}
